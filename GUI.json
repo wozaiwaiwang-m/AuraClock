@@ -1,16 +1,16 @@
 [
 	{
-		"name": "adsfveb",
+		"name": "示例闹钟1",
 		"sun": "sunRise",
-		"diff": 120000000000,
-		"remark": "",
+		"diff": 1200000000000,
+		"remark": "日出后20分钟起床",
 		"enabled": false
 	},
 	{
-		"name": "阿凡达反而vasdfege",
-		"sun": "sunRise",
-		"diff": -13980000000000,
-		"remark": "",
+		"name": "示例闹钟2",
+		"sun": "sunSet",
+		"diff": 7200000000000,
+		"remark": "日落2小时后提醒",
 		"enabled": false
 	}
 ]
